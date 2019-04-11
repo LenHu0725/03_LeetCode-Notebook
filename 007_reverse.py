@@ -18,7 +18,7 @@
 # 方法一：
 # 时间复杂度：O（log（x））
 
-class Solution:
+class Solution_1:
     def reverse(self, x):
         """
         :type x: int
@@ -47,7 +47,7 @@ class Solution:
 # 方法二：
 # 时间复杂度：O（n）
 
-class Solution:
+class Solution_2:
     def reverse(self, x):
         """
         :type x: int
